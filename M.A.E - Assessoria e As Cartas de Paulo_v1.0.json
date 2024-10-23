@@ -1,0 +1,122 @@
+{
+"01-00-lideranca-servico": {
+"title": "1. Lideran\u00e7a e Servi\u00e7o",
+"description": "Aplicando os princ\u00edpios de lideran\u00e7a e servi\u00e7o das Cartas de Paulo na consultoria.",
+"url": "exemplo.com",
+"category": "1. LIDERAN\u00c7A E SERVI\u00c7O"
+},
+"01-01-lideranca-humilde": {
+"title": "1.1 Lideran\u00e7a Humilde",
+"description": "Aplique o princ\u00edpio de Filipenses 2:3-4, 'Nada fa\u00e7am por ambi\u00e7\u00e3o ego\u00edsta ou por vaidade', para desenvolver uma lideran\u00e7a centrada no cliente e na equipe.",
+"url": "exemplo.com",
+"category": "1. LIDERAN\u00c7A E SERVI\u00c7O"
+},
+"01-02-servico-dedicado": {
+"title": "1.2 Servi\u00e7o Dedicado",
+"description": "Utilize o ensinamento de G\u00e1latas 5:13, 'Sirvam uns aos outros em amor', para cultivar uma cultura de servi\u00e7o dedicado aos clientes e colegas.",
+"url": "exemplo.com",
+"category": "1. LIDERAN\u00c7A E SERVI\u00c7O"
+},
+"01-03-integridade-profissional": {
+"title": "1.3 Integridade Profissional",
+"description": "Implemente o princ\u00edpio de 2 Cor\u00edntios 8:21, 'Pois temos o cuidado de fazer o que \u00e9 correto', para manter altos padr\u00f5es \u00e9ticos na consultoria.",
+"url": "exemplo.com",
+"category": "1. LIDERAN\u00c7A E SERVI\u00c7O"
+},
+"01-04-desenvolvimento-equipe": {
+"title": "1.4 Desenvolvimento da Equipe",
+"description": "Aplique o conceito de Ef\u00e9sios 4:11-12 sobre equipar os santos para o servi\u00e7o, focando no desenvolvimento e capacita\u00e7\u00e3o da equipe de consultoria.",
+"url": "exemplo.com",
+"category": "1. LIDERAN\u00c7A E SERVI\u00c7O"
+},
+"02-00-etica-negocios": {
+"title": "2. \u00c9tica nos Neg\u00f3cios",
+"description": "Aplicando os princ\u00edpios \u00e9ticos das Cartas de Paulo no ambiente de neg\u00f3cios e consultoria.",
+"url": "exemplo.com",
+"category": "2. \u00c9TICA NOS NEG\u00d3CIOS"
+},
+"02-01-honestidade-transparencia": {
+"title": "2.1 Honestidade e Transpar\u00eancia",
+"description": "Implemente o princ\u00edpio de Ef\u00e9sios 4:25, 'Deixando a mentira, fale cada um a verdade', para promover rela\u00e7\u00f5es transparentes com clientes e parceiros.",
+"url": "exemplo.com",
+"category": "2. \u00c9TICA NOS NEG\u00d3CIOS"
+},
+"02-02-justica-equidade": {
+"title": "2.2 Justi\u00e7a e Equidade",
+"description": "Aplique o ensinamento de Colossenses 4:1 sobre tratar os outros com justi\u00e7a e equidade nas pr\u00e1ticas de neg\u00f3cios e consultoria.",
+"url": "exemplo.com",
+"category": "2. \u00c9TICA NOS NEG\u00d3CIOS"
+},
+"02-03-responsabilidade-social": {
+"title": "2.3 Responsabilidade Social",
+"description": "Utilize o princ\u00edpio de G\u00e1latas 6:10, 'Fa\u00e7amos o bem a todos', para desenvolver pr\u00e1ticas de responsabilidade social corporativa.",
+"url": "exemplo.com",
+"category": "2. \u00c9TICA NOS NEG\u00d3CIOS"
+},
+"02-04-gestao-conflitos": {
+"title": "2.4 Gest\u00e3o de Conflitos",
+"description": "Aplique o conselho de Romanos 12:18, 'Se for poss\u00edvel, quanto depender de voc\u00eas, vivam em paz com todos', para gerenciar conflitos de forma construtiva.",
+"url": "exemplo.com",
+"category": "2. \u00c9TICA NOS NEG\u00d3CIOS"
+},
+"03-00-resiliencia-perseveranca": {
+"title": "3. Resili\u00eancia e Perseveran\u00e7a",
+"description": "Aplicando os ensinamentos de Paulo sobre supera\u00e7\u00e3o de desafios no contexto de consultoria.",
+"url": "exemplo.com",
+"category": "3. RESILI\u00caNCIA E PERSEVERAN\u00c7A"
+},
+"03-01-superacao-adversidades": {
+"title": "3.1 Supera\u00e7\u00e3o de Adversidades",
+"description": "Implemente o princ\u00edpio de 2 Cor\u00edntios 4:8-9 sobre perseverar em face das dificuldades para enfrentar desafios em projetos de consultoria.",
+"url": "exemplo.com",
+"category": "3. RESILI\u00caNCIA E PERSEVERAN\u00c7A"
+},
+"03-02-foco-objetivo": {
+"title": "3.2 Foco no Objetivo",
+"description": "Aplique o conceito de Filipenses 3:13-14 sobre 'prosseguir para o alvo' para manter o foco nos objetivos de longo prazo dos projetos.",
+"url": "exemplo.com",
+"category": "3. RESILI\u00caNCIA E PERSEVERAN\u00c7A"
+},
+"03-03-adaptabilidade": {
+"title": "3.3 Adaptabilidade",
+"description": "Utilize o princ\u00edpio de 1 Cor\u00edntios 9:22, 'Tornei-me tudo para com todos', para desenvolver flexibilidade e adaptabilidade em diferentes contextos de neg\u00f3cios.",
+"url": "exemplo.com",
+"category": "3. RESILI\u00caNCIA E PERSEVERAN\u00c7A"
+},
+"03-04-crescimento-aprendizado": {
+"title": "3.4 Crescimento e Aprendizado",
+"description": "Aplique o conceito de Filipenses 1:9 sobre crescer em conhecimento e discernimento para promover o desenvolvimento cont\u00ednuo na consultoria.",
+"url": "exemplo.com",
+"category": "3. RESILI\u00caNCIA E PERSEVERAN\u00c7A"
+},
+"04-00-comunicacao-relacionamentos": {
+"title": "4. Comunica\u00e7\u00e3o e Relacionamentos",
+"description": "Aplicando os princ\u00edpios de Paulo sobre comunica\u00e7\u00e3o eficaz e constru\u00e7\u00e3o de relacionamentos na consultoria.",
+"url": "exemplo.com",
+"category": "4. COMUNICA\u00c7\u00c3O E RELACIONAMENTOS"
+},
+"04-01-comunicacao-clara": {
+"title": "4.1 Comunica\u00e7\u00e3o Clara",
+"description": "Implemente o princ\u00edpio de Colossenses 4:6, 'Que a conversa de voc\u00eas seja sempre agradável e temperada com sal', para melhorar a clareza e efic\u00e1cia da comunica\u00e7\u00e3o.",
+"url": "exemplo.com",
+"category": "4. COMUNICA\u00c7\u00c3O E RELACIONAMENTOS"
+},
+"04-02-empatia-compreensao": {
+"title": "4.2 Empatia e Compreens\u00e3o",
+"description": "Aplique o ensinamento de Romanos 12:15, 'Alegrem-se com os que se alegram; chorem com os que choram', para desenvolver empatia com clientes e colegas.",
+"url": "exemplo.com",
+"category": "4. COMUNICA\u00c7\u00c3O E RELACIONAMENTOS"
+},
+"04-03-construcao-confianca": {
+"title": "4.3 Constru\u00e7\u00e3o de Confian\u00e7a",
+"description": "Utilize o princ\u00edpio de 1 Tessalonicenses 5:11 sobre encorajamento m\u00fatuo para construir rela\u00e7\u00f5es de confian\u00e7a duradouras com clientes e parceiros.",
+"url": "exemplo.com",
+"category": "4. COMUNICA\u00c7\u00c3O E RELACIONAMENTOS"
+},
+"04-04-resolucao-conflitos": {
+"title": "4.4 Resolu\u00e7\u00e3o de Conflitos",
+"description": "Aplique o conselho de Ef\u00e9sios 4:26-27 sobre n\u00e3o deixar que a raiva perdure para abordar e resolver conflitos de forma construtiva.",
+"url": "exemplo.com",
+"category": "4. COMUNICA\u00c7\u00c3O E RELACIONAMENTOS"
+}
+}

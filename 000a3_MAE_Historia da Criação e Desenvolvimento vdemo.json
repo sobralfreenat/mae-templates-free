@@ -1,0 +1,86 @@
+{
+  "mae-menu-edit": {
+    "title": "Menu Editor v1.9",
+    "description": "Abra as instruções no MENU",
+    "url": "https://sobralfreenat.github.io/mae-menu-editor/",
+    "category": "START"
+  },
+  "01-00-historia-mae": {
+    "title": "HISTÓRIA DO MAE",
+    "description": "O Modelo de Aceleração Estruturada (MAE) nasceu de uma necessidade premente no mundo dos negócios: a busca por uma abordagem sistemática e eficaz para acelerar o crescimento e a transformação das organizações.\n\nTudo começou quando um grupo de consultores e estrategistas, liderados por Alex Sobral, percebeu que muitas empresas estavam lutando para implementar mudanças significativas e sustentar o crescimento a longo prazo. Eles notaram que, frequentemente, as estratégias não eram bem concebidas, falhavam na definição e alinhamento de objetivos, bem como na execução devido à falta de uma estrutura clara, sistêmica, adaptável e replicável.\nAntes do M.A.E. o crescimento sustentável com modelos de recorrência e escala não era parte integrante do Plano de Negócios.",
+    "url": "https://exemplo.com/mae-historia",
+    "category": "HISTÓRIA"
+  },
+  "01-01-desenvolvimento": {
+    "title": "Desenvolvimento do MAE",
+    "description": "Inspirados por essa observação, eles embarcaram em uma jornada de pesquisa e desenvolvimento. Analisaram centenas de casos de sucesso e fracasso em transformação empresarial, entrevistaram líderes de diversos setores e estudaram as mais recentes teorias de gestão e psicologia organizacional.\n\nO resultado foi o MAE - uma metodologia que combina o melhor do pensamento estratégico com práticas ágeis de implementação. O modelo foi projetado para ser flexível o suficiente para se adaptar a diferentes tipos de organizações, mas estruturado o bastante para fornecer um caminho claro para o sucesso.",
+    "url": "https://exemplo.com/mae-desenvolvimento",
+    "category": "HISTÓRIA"
+  },
+  "02-00-estrategia": {
+    "title": "Use Case",
+    "description": "Um marco importante na história do MAE foi sua implementação em uma multinacional do setor de manufatura que estava lutando para se adaptar à era digital. Usando o MAE, a empresa foi capaz de transformar sua cultura, digitalizar suas operações e lançar uma nova linha de produtos conectados em tempo recorde.",
+    "url": "https://exemplo.com/mae-estrategia",
+    "category": "ESTRATÉGIA"
+  },
+  "03-00-tatica": {
+    "title": "Ajustes via Editor",
+    "description": "À medida que o MAE ganhava reconhecimento, a equipe percebeu a necessidade de criar uma plataforma para compartilhar conhecimentos e melhores práticas. Isso levou ao desenvolvimento do MAE Menu Editor, uma ferramenta que permite às organizações personalizar e implementar o modelo de forma mais eficaz.",
+    "url": "https://sobralfreenat.github.io/mae-menu-editor/",
+    "category": "TÁTICA"
+  },
+  "04-00-operacao": {
+    "title": "OPERAÇÃO",
+    "description": "Hoje, o MAE é utilizado por empresas de todos os tamanhos e setores ao redor do mundo. Continua evoluindo, incorporando novas ideias e se adaptando às mudanças no cenário de negócios global.",
+    "url": "https://exemplo.com/mae-operacao",
+    "category": "OPERAÇÃO"
+  },
+  "05-00-capacitacao": {
+    "title": "CAPACITAÇÃO",
+    "description": "A visão para o futuro é tornar o MAE a metodologia padrão para aceleração e transformação empresarial, capacitando organizações a prosperar em um mundo em constante mudança.",
+    "url": "https://exemplo.com/mae-capacitacao",
+    "category": "CAPACITAÇÃO"
+  },
+  "06-00-educacao-stakeholders": {
+    "title": "EDUCAÇÃO DE STAKEHOLDERS",
+    "description": "A jornada do MAE é um testemunho do poder da inovação, da colaboração e da melhoria contínua. É uma história que continua a ser escrita, com cada nova implementação adicionando um capítulo emocionante a esta narrativa de sucesso empresarial.",
+    "url": "https://exemplo.com/mae-educacao-stakeholders",
+    "category": "EDUCAÇÃO DE STAKEHOLDERS"
+  },
+  "07-00-comunicacao-estrategica": {
+    "title": "COMUNICAÇÃO ESTRATÉGICA",
+    "description": "A história do MAE é uma poderosa ferramenta de comunicação estratégica, demonstrando seu impacto e evolução ao longo do tempo.",
+    "url": "https://exemplo.com/mae-comunicacao-estrategica",
+    "category": "COMUNICAÇÃO ESTRATÉGICA"
+  },
+  "08-00-contatos": {
+    "title": "Contatos",
+    "description": "Entre em contato para saber mais sobre como o MAE pode transformar sua organização",
+    "url": "https://exemplo.com/mae-contatos",
+    "category": "CONTATOS"
+  },
+  "08-01-whatsapp": {
+    "title": "WhatsApp",
+    "description": "Fale conosco via WhatsApp para uma consulta rápida sobre o MAE: +5511911595028",
+    "url": "https://api.whatsapp.com/send?phone=5511911595028",
+    "category": "CONTATOS"
+  },
+  "08-02-site-mvp": {
+    "title": "Site MVP",
+    "description": "Explore o MAE em ação e veja como ele pode acelerar sua transformação organizacional",
+    "url": "https://sobralfreenat.github.io/mae-menu-editor/",
+    "category": "CONTATOS"
+  },
+  "08-03-linkedin": {
+    "title": "LinkedIn",
+    "description": "Conecte-se conosco no LinkedIn para updates sobre o MAE e inovações em aceleração estruturada",
+    "url": "https://www.linkedin.com/in/demarcoalexsobral/",
+    "category": "CONTATOS"
+  },
+  "06-01-educacao-frameworks": {
+    "title": "Educação - Frameworks Disponíveis",
+    "description": "Disponíveis\n\n\n00_MAE_Acontece_Enaltece_MetaCase\n\n01_MAE_Aprende_Ensina_AcaoEficaz\n02_MAE_Aprimora_Estrategia_DesafiaObjetivos\n03_MAE_Acelera_Executa_TransformaDigital\n04_MAE_Assessoria_Estrategica_ClienteContabil Geral\n05_MAE_Alinhamento_Empresarial ReuneContabil_Odoo\n06_MAE_Assessoria_Estratégica_ClientedaContabil\n07_MAE_Alinhamento_Empresarial ReuneParceria_Odoo",
+    "url": "FNW__MAE_Assessoria_Acelera_Demo v.2.0",
+    "category": "EDUCAÇÃO DE STAKEHOLDERS"
+  }
+}

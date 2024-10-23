@@ -1,0 +1,62 @@
+{
+  "00-00-mae-audio-engineering": {
+    "title": "M.A.E. - Audio Engineering",
+    "description": "Vis\u00e3o geral das aplica\u00e7\u00f5es de IA em engenharia de \u00e1udio",
+    "url": "https://www.izotope.com/en/learn/ai-in-audio-production.html",
+    "category": "0. VIS\u00c3O GERAL"
+  },
+  "01-00-restauracao-audio": {
+    "title": "1. Restaura\u00e7\u00e3o de \u00c1udio",
+    "description": "Uso de IA para remover cliques, zumbidos e ru\u00eddos de fundo automaticamente",
+    "url": "https://www.izotope.com/en/products/rx.html",
+    "category": "1. RESTAURA\u00c7\u00c3O DE \u00c1UDIO"
+  },
+  "02-00-geracao-sons": {
+    "title": "2. Gera\u00e7\u00e3o de Sons",
+    "description": "IA para criar esbo\u00e7os de sons baseados em prompts",
+    "url": "https://www.aiva.ai/",
+    "category": "2. GERA\u00c7\u00c3O DE SONS"
+  },
+  "03-00-eq-inteligente": {
+    "title": "3. EQ Inteligente",
+    "description": "An\u00e1lise de \u00e1udio por IA e sugest\u00e3o de configura\u00e7\u00f5es de EQ personalizadas",
+    "url": "https://www.soundtheory.com/home",
+    "category": "3. EQ INTELIGENTE"
+  },
+  "04-00-edicao-audio-texto": {
+    "title": "4. Edi\u00e7\u00e3o de \u00c1udio por Texto",
+    "description": "Edi\u00e7\u00e3o de \u00e1udio atrav\u00e9s da edi\u00e7\u00e3o de texto para agilizar a edi\u00e7\u00e3o de di\u00e1logos",
+    "url": "https://www.descript.com/",
+    "category": "4. EDI\u00c7\u00c3O DE \u00c1UDIO POR TEXTO"
+  },
+  "05-00-busca-sons-similares": {
+    "title": "5. Busca de Sons Similares",
+    "description": "An\u00e1lise de biblioteca de sons por IA para encontrar sons semelhantes rapidamente",
+    "url": "https://www.sononym.net/",
+    "category": "5. BUSCA DE SONS SIMILARES"
+  },
+  "06-00-isolamento-stems": {
+    "title": "6. Isolamento de Stems",
+    "description": "Separa\u00e7\u00e3o de stems individuais de uma mixagem completa usando IA",
+    "url": "https://www.lalal.ai/",
+    "category": "6. ISOLAMENTO DE STEMS"
+  },
+  "07-00-producao-conteudo-ia": {
+    "title": "7. Produ\u00e7\u00e3o de Conte\u00fado com IA",
+    "description": "Ferramentas de IA para cria\u00e7\u00e3o de conte\u00fado relacionado a \u00e1udio",
+    "url": "https://www.landr.com/",
+    "category": "7. PRODU\u00c7\u00c3O DE CONTE\u00daDO"
+  },
+  "07-01-eleven-labs": {
+    "title": "7.1 Eleven Labs",
+    "description": "Narra\u00e7\u00e3o e s\u00edntese de voz por IA para produ\u00e7\u00e3o de \u00e1udio",
+    "url": "https://elevenlabs.io/",
+    "category": "7. PRODU\u00c7\u00c3O DE CONTE\u00daDO"
+  },
+  "07-02-myedit": {
+    "title": "7.2 MyEdit",
+    "description": "Edi\u00e7\u00e3o autom\u00e1tica de \u00e1udio para produ\u00e7\u00e3o de conte\u00fado",
+    "url": "https://myedit.online/",
+    "category": "7. PRODU\u00c7\u00c3O DE CONTE\u00daDO"
+  }
+}

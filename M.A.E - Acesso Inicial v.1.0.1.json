@@ -1,0 +1,107 @@
+{
+  "01-inicio": {
+    "title": "Bem-vindo ao M.A.E.",
+    "description": "Esta \u00e9 sua p\u00e1gina inicial. Aqui voc\u00ea encontrar\u00e1 links r\u00e1pidos para as principais se\u00e7\u00f5es do seu M.A.E.",
+    "url": "https://sobralfreenat.github.io/mae-menu-editor/",
+    "category": "IN\u00cdCIO"
+},
+
+  "00-instrucoes": {
+    "title": "Instru\u00e7\u00f5es B\u00e1sicas do M.A.E.",
+    "description": "Guia r\u00e1pido para come\u00e7ar a usar o M.A.E. Web App",
+    "url": "https://sobralfreenat.github.io/mae-menu-editor/",
+    "category": "INSTRU\u00c7\u00d5ES"
+  },
+  "01-carregar-arquivo": {
+    "title": "1. Escolher e Carregar Arquivo",
+    "description": "Selecione o arquivo 'M.A.E - Acesso Inicial v.1.0.json' e clique em 'Carregar Arquivos'",
+    "url": "https://sobralfreenat.github.io/mae-menu-editor/",
+    "category": "INSTRU\u00c7\u00d5ES"
+  },
+  "02-selecionar-arquivo": {
+    "title": "2. Selecionar Arquivo na lista",
+    "description": "Na lista suspensa, escolha 'M.A.E - Acesso Inicial v.1.0.json'",
+    "url": "https://sobralfreenat.github.io/mae-menu-editor/",
+    "category": "INSTRU\u00c7\u00d5ES"
+  },
+  "03-carregar-lista": {
+    "title": "3. Carregar da Lista",
+    "description": "Clique no bot\u00e3o 'Carregar da Lista' para carregar o arquivo selecionado",
+    "url": "https://sobralfreenat.github.io/mae-menu-editor/",
+    "category": "INSTRU\u00c7\u00d5ES"
+  },
+  "04-mostrar-menu": {
+    "title": "4. Mostrar Menu",
+    "description": "Clique no bot\u00e3o 'On/Off' para exibir ou ocultar o menu",
+    "url": "https://sobralfreenat.github.io/mae-menu-editor/",
+    "category": "INSTRU\u00c7\u00d5ES"
+  },
+  "05-editor-instrucoes": {
+    "title": "Instru\u00e7\u00f5es do Editor M.A.E.",
+    "description": "Para instru\u00e7\u00f5es detalhadas sobre como usar o Editor M.A.E., clique aqui",
+    "url": "https://sobralfreenat.github.io/mae-menu-editor-instru-es/",
+    "category": "INSTRU\u00c7\u00d5ES"
+  },
+  "06-inicio": {
+    "title": "In\u00edcio",
+    "description": "Volte para a p\u00e1gina inicial do M.A.E.",
+    "url": "https://sobralfreenat.github.io/mae-menu-editor/",
+    "category": "NAVEGA\u00c7\u00c3O"
+
+
+  },
+  "02-projetos": {
+    "title": "Meus Projetos",
+    "description": "Liste aqui seus projetos ativos. Clique para acessar recursos espec\u00edficos de cada projeto.",
+    "url": "https://sobralfreenat.github.io/mae-menu-editor/",
+    "category": "PROJETOS"
+  },
+  "03-tarefas": {
+    "title": "Lista de Tarefas",
+    "description": "Mantenha suas tarefas organizadas. Adicione, edite ou marque como conclu\u00eddas.",
+    "url": "https://sobralfreenat.github.io/mae-menu-editor/",
+    "category": "TAREFAS"
+  },
+  "04-recursos": {
+    "title": "Recursos Importantes",
+    "description": "Links para documentos, ferramentas e sites que voc\u00ea usa frequentemente.",
+    "url": "https://sobralfreenat.github.io/mae-menu-editor/",
+    "category": "RECURSOS"
+  },
+  "05-aprendizado": {
+    "title": "\u00c1rea de Aprendizado",
+    "description": "Organize seus materiais de estudo, cursos online e recursos educacionais.",
+    "url": "https://sobralfreenat.github.io/mae-menu-editor/",
+    "category": "APRENDIZADO"
+  },
+  "06-networking": {
+    "title": "Contatos e Networking",
+    "description": "Mantenha seus contatos importantes e oportunidades de networking organizados.",
+    "url": "https://sobralfreenat.github.io/mae-menu-editor/",
+    "category": "NETWORKING"
+  },
+  "07-ideias": {
+    "title": "Banco de Ideias",
+    "description": "Capture e organize suas ideias para projetos futuros ou melhorias.",
+    "url": "https://sobralfreenat.github.io/mae-menu-editor/",
+    "category": "IDEIAS"
+  },
+  "08-configuracoes": {
+    "title": "Configura\u00e7\u00f5es do M.A.E.",
+    "description": "Acesse as configura\u00e7\u00f5es do seu M.A.E. para personalizar sua experi\u00eancia.",
+    "url": "https://sobralfreenat.github.io/mae-menu-editor/",
+    "category": "CONFIGURA\u00c7\u00d5ES"
+  },
+  "09-ajuda": {
+    "title": "Ajuda e Suporte",
+    "description": "Encontre guias, tutoriais e acesse o suporte para tirar suas d\u00favidas sobre o M.A.E.",
+    "url": "https://sobralfreenat.github.io/mae-menu-editor/",
+    "category": "AJUDA"
+  },
+  "10-editor": {
+    "title": "Menu Editor M.A.E.",
+    "description": "Acesse o Menu Editor para personalizar e expandir seu M.A.E. conforme suas necessidades.",
+    "url": "https://sobralfreenat.github.io/mae-menu-editor/",
+    "category": "FERRAMENTAS"
+  }
+}
